@@ -1,1 +1,9 @@
 /config/database.yml
+config/database.yml
+/.bundle
+/log/*.log
+/tmp
+/.project
+/public/uploads
+/config/environments/development.rb
+config/environments/development.rb
